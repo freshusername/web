@@ -1,6 +1,6 @@
 var express = require('express');
 var favicon = require('serve-favicon');
-var path = require('path')
+var path = require('path');
 var bodyParser = require('body-parser');
 var morgan = require('morgan');
 var methodOverride = require('method-override');
