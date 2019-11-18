@@ -1,2 +1,2 @@
 # web
-practical works for web development
+uni labs for web development
